@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/JohnMellaley/ecommerce.svg?branch=master)](https://travis-ci.org/JohnMellaley/ecommerce)
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
